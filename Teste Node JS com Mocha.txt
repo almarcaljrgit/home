@@ -57,3 +57,4 @@ assert.property({ chá: { verde: 'matcha' }}, 'toString');
 Confirma que objeto tem propriedade direta ou herdada nomeada por property com um valor dado por value. 
 Usa um igualdade rigorosa (===).
 assert.propertyVal({ chá: 'é bom' }, 'chá', 'é bom');
+ 
