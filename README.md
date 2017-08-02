@@ -1,2 +1,2 @@
 # home
-TESTE
+Pasta dedicada a conhecimentos em automação de teste
