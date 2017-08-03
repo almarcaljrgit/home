@@ -2,6 +2,6 @@
 
 [Configuração Cabalabash com Cucumber](/Config_Calabash_com_Cucumber.md)
 
-[Configuração Appium](/Config. com Appium.md)
+[Configuração Appium](/Config_com_Appium.md)
 
-[Configuração Node JS com Mocha](/Config. Node JS com Mocha.md)
+[Configuração Node JS com Mocha](/Config_Node_JS_com_Mocha.md)
