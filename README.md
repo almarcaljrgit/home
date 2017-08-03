@@ -1,7 +1,16 @@
-# Configuração de ambientes para automação de testes
+# PRINCIPAIS INFORMAÇÕES
 
-[Configuração Cabalabash com Cucumber](/Config_Calabash_com_Cucumber.md)
+#Profissional
+Profissional com sólida experiência de mais de 10 anos de TI, atuando como Analista de Sistema Funcional e QA. Graduado em Sistema de Informação e técnico em Telecomunicações e em Eletrônica.
 
-[Configuração Appium](/Config_com_Appium.md)
+#Metodologias
+Experiência em projetos utilizando RUP, ITIL, SCRUM, XP e KANBAN.
 
-[Configuração Node JS com Mocha](/Config_Node_JS_com_Mocha.md)
+#Linguagens
+Experiencia em projeto com linguagens e frameworks Java, Adobe Flex, C#, VB, HTML, HTML5, Node JS e Java Script. Conhecimentos em Pascal, C e C#.
+
+#Automação de Teste
+Experiência em automação utilizando frameworks, bibliotecas e ferramentas JUnit, NUnit, CodeUi, Selenium, Mocha, Chai, Cucumber e Calabash. Conhecimentos SoapUI, Test Recorder e Flex Monkey.
+
+#Ferramentas para gerenciamento e medição de incidentes
+Experiência com HP Quality Center, Jira, Testlink, Bugzilla, Microsoft Test Manager, Mantis e Instambul. Conhecimento HP ALM, QA Manager, Redmine entere outras.
