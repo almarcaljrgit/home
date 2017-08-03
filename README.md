@@ -1,13 +1,13 @@
 # PRINCIPAIS INFORMAÇÕES
 
-#Profissional
-Profissional com sólida experiência de mais de 10 anos de TI, atuando como Analista de Sistema Funcional e QA. Graduado em Sistema de Informação e técnico em Telecomunicações e em Eletrônica.
+<h2>#Profissional</h2>
+<p>Profissional com sólida experiência de mais de 10 anos de TI, atuando como Analista de Sistema Funcional e QA. Graduado em Sistema de Informação e técnico em Telecomunicações e em Eletrônica.</p><br />
 
-#Metodologias
-Experiência em projetos utilizando RUP, ITIL, SCRUM, XP e KANBAN.
+<h2>##Metodologias</h2>
+<p>Experiência em projetos utilizando RUP, ITIL, SCRUM, XP e KANBAN.</p><br />
 
-#Linguagens
-Experiencia em projeto com linguagens e frameworks Java, Adobe Flex, C#, VB, HTML, HTML5, Node JS e Java Script. Conhecimentos em Pascal, C e C#.
+</h2>###Linguagens</h2>
+Experiencia em projeto com linguagens e frameworks Java, Adobe Flex, C#, VB, HTML, HTML5, Node JS e Java Script. </p>Conhecimentos em Pascal, C e C#.</p><br />
 
 #Automação de Teste
 Experiência em automação utilizando frameworks, bibliotecas e ferramentas JUnit, NUnit, CodeUi, Selenium, Mocha, Chai, Cucumber e Calabash. Conhecimentos SoapUI, Test Recorder, Flex Monkey, Appium, JMeter entre outras.
